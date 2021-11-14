@@ -1,0 +1,7 @@
+12:19:54 **** Incremental Build of configuration Debug for project SelectionSorting ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\SelectionSorting.o" "..\\src\\SelectionSorting.c" 
+gcc -o SelectionSorting.exe "src\\SelectionSorting.o" 
+
+12:19:55 Build Finished. 0 errors, 0 warnings. (took 789ms)
+
