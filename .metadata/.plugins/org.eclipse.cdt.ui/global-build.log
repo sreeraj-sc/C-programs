@@ -1,5 +1,5 @@
-16:13:15 **** Incremental Build of configuration Debug for project FunctionWithArgumentWithReturnValue ****
+16:25:58 **** Incremental Build of configuration Debug for project FunctionWithOutargumentWithReturnValue ****
 Info: Internal Builder is used for build
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\FunctionWithArgumentWithReturnValue.o" "..\\src\\FunctionWithArgumentWithReturnValue.c" 
-gcc -o FunctionWithArgumentWithReturnValue.exe "src\\FunctionWithArgumentWithReturnValue.o" 
-Info: Nothing to build for FunctionWithArgumentWithReturnValue
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\FunctionWithOutargumentWithReturnValue.o" "..\\src\\FunctionWithOutargumentWithReturnValue.c" 
+gcc -o FunctionWithOutargumentWithReturnValue.exe "src\\FunctionWithOutargumentWithReturnValue.o" 
+Info: Nothing to build for FunctionWithOutargumentWithReturnValue

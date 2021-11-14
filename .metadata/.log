@@ -274,3 +274,6 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY org.eclipse.cdt.core 1 0 2021-11-14 16:08:47.247
 !MESSAGE Indexed 'FunctionWithArgumentWithReturnValue' (1 sources, 20 headers) in 0.303 sec: 2,185 declarations; 2,833 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-11-14 16:21:46.062
+!MESSAGE Indexed 'FunctionWithOutargumentWithReturnValue' (1 sources, 0 headers) in 0.007 sec: 2 declarations; 1 references; 2 unresolved inclusions; 0 syntax errors; 1 unresolved names (25%)
